@@ -1,3 +1,6 @@
+// Time Complexity - O(n)
+// Space Complexity - O(1)
+
 public class LinearSearch
 {
 	private static void linearSearch(int arr[], int num){
